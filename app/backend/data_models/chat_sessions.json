@@ -1,0 +1,33 @@
+{
+    "title": "chat_sessions",
+    "type": "object",
+    "properties": {
+        "id": {
+            "type": "integer",
+            "autoincrement": true,
+            "primary_key": true
+        },
+        "user_id": {
+            "type": "string"
+        },
+        "session_key": {
+            "type": "string"
+        },
+        "title": {
+            "type": "string"
+        },
+        "data": {
+            "type": "string",
+            "format": "text"
+        },
+        "updated_ms": {
+            "type": "number"
+        }
+    },
+    "required": [
+        "session_key",
+        "title",
+        "data",
+        "user_id"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "title": "shared_apps",
+    "type": "object",
+    "properties": {
+        "id": {
+            "type": "integer",
+            "autoincrement": true,
+            "primary_key": true
+        },
+        "title": {
+            "type": "string"
+        },
+        "html": {
+            "type": "string",
+            "format": "text"
+        }
+    },
+    "required": [
+        "title",
+        "html"
+    ]
+}

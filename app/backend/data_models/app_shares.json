@@ -1,0 +1,36 @@
+{
+    "title": "app_shares",
+    "type": "object",
+    "properties": {
+        "id": {
+            "type": "integer",
+            "autoincrement": true,
+            "primary_key": true
+        },
+        "user_id": {
+            "type": "string"
+        },
+        "title": {
+            "type": "string"
+        },
+        "html": {
+            "type": "string",
+            "format": "text"
+        },
+        "files_json": {
+            "type": "string",
+            "format": "text"
+        },
+        "is_public": {
+            "type": "boolean"
+        },
+        "remix_count": {
+            "type": "integer"
+        }
+    },
+    "required": [
+        "title",
+        "html",
+        "user_id"
+    ]
+}

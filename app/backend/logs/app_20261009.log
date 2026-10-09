@@ -1,0 +1,672 @@
+2026-10-09 02:02:06,236 - main - INFO - === Logging system initialized ===
+2026-10-09 02:02:06,236 - main - INFO - Log file: logs/app_20261009.log
+2026-10-09 02:02:06,237 - main - INFO - Log level: DEBUG
+2026-10-09 02:02:06,237 - main - INFO - Log date: 20261009
+2026-10-09 02:02:06,814 - main - INFO - Included router: routers.aihub.router
+2026-10-09 02:02:09,133 - main - INFO - Included router: routers.auth.router
+2026-10-09 02:02:09,200 - main - INFO - Included router: routers.health.router
+2026-10-09 02:02:09,229 - main - INFO - Included router: routers.settings.router
+2026-10-09 02:02:09,350 - main - INFO - Included router: routers.storage.router
+2026-10-09 02:02:09,503 - main - INFO - Included router: routers.user.router
+2026-10-09 02:02:09,505 - main - INFO - === Application startup initiated ===
+2026-10-09 02:02:09,505 - main - INFO - === Application startup completed successfully ===
+2026-10-09 02:02:33,654 - main - INFO - === Logging system initialized ===
+2026-10-09 02:02:33,655 - main - INFO - Log file: logs/app_20261009.log
+2026-10-09 02:02:33,655 - main - INFO - Log level: DEBUG
+2026-10-09 02:02:33,655 - main - INFO - Log date: 20261009
+2026-10-09 02:02:33,830 - main - INFO - Included router: routers.aihub.router
+2026-10-09 02:02:36,126 - main - INFO - Included router: routers.auth.router
+2026-10-09 02:02:36,129 - main - INFO - Included router: routers.health.router
+2026-10-09 02:02:36,141 - main - INFO - Included router: routers.settings.router
+2026-10-09 02:02:36,302 - main - INFO - Included router: routers.storage.router
+2026-10-09 02:02:36,325 - main - INFO - Included router: routers.user.router
+2026-10-09 02:02:36,327 - main - INFO - === Application startup initiated ===
+2026-10-09 02:02:36,327 - main - INFO - === Application startup completed successfully ===
+2026-10-09 02:04:51,484 - main - INFO - === Logging system initialized ===
+2026-10-09 02:04:51,485 - main - INFO - Log file: logs/app_20261009.log
+2026-10-09 02:04:51,485 - main - INFO - Log level: DEBUG
+2026-10-09 02:04:51,485 - main - INFO - Log date: 20261009
+2026-10-09 02:04:51,585 - main - INFO - Included router: routers.aihub.router
+2026-10-09 02:04:52,298 - main - INFO - Included router: routers.auth.router
+2026-10-09 02:04:52,301 - main - INFO - Included router: routers.health.router
+2026-10-09 02:04:52,315 - main - INFO - Included router: routers.settings.router
+2026-10-09 02:04:52,335 - main - INFO - Included router: routers.storage.router
+2026-10-09 02:04:52,351 - main - INFO - Included router: routers.user.router
+2026-10-09 02:04:52,353 - main - INFO - === Application startup initiated ===
+2026-10-09 02:04:52,353 - main - INFO - === Application startup completed successfully ===
+2026-10-09 02:07:08,346 - dependencies.auth - DEBUG - Authentication required for request GET /api/v1/auth/me
+2026-10-09 02:09:34,396 - main - INFO - === Logging system initialized ===
+2026-10-09 02:09:34,396 - main - INFO - Log file: logs/app_20261009.log
+2026-10-09 02:09:34,396 - main - INFO - Log level: DEBUG
+2026-10-09 02:09:34,396 - main - INFO - Log date: 20261009
+2026-10-09 02:09:34,510 - main - INFO - Included router: routers.aihub.router
+2026-10-09 02:09:35,271 - main - INFO - Included router: routers.auth.router
+2026-10-09 02:09:35,275 - main - INFO - Included router: routers.health.router
+2026-10-09 02:09:35,288 - main - INFO - Included router: routers.settings.router
+2026-10-09 02:09:35,314 - main - INFO - Included router: routers.storage.router
+2026-10-09 02:09:35,332 - main - INFO - Included router: routers.user.router
+2026-10-09 02:09:35,334 - main - INFO - === Application startup initiated ===
+2026-10-09 02:09:35,334 - main - INFO - === Application startup completed successfully ===
+2026-10-09 02:11:49,216 - dependencies.auth - DEBUG - Authentication required for request GET /api/v1/auth/me
+2026-10-09 02:14:16,728 - main - INFO - === Logging system initialized ===
+2026-10-09 02:14:16,729 - main - INFO - Log file: logs/app_20261009.log
+2026-10-09 02:14:16,729 - main - INFO - Log level: DEBUG
+2026-10-09 02:14:16,729 - main - INFO - Log date: 20261009
+2026-10-09 02:14:16,824 - main - INFO - Included router: routers.aihub.router
+2026-10-09 02:14:17,494 - main - INFO - Included router: routers.auth.router
+2026-10-09 02:14:17,497 - main - INFO - Included router: routers.health.router
+2026-10-09 02:14:17,508 - main - INFO - Included router: routers.settings.router
+2026-10-09 02:14:17,530 - main - INFO - Included router: routers.storage.router
+2026-10-09 02:14:17,548 - main - INFO - Included router: routers.user.router
+2026-10-09 02:14:17,551 - main - INFO - === Application startup initiated ===
+2026-10-09 02:14:17,551 - main - INFO - === Application startup completed successfully ===
+2026-10-09 02:16:31,414 - dependencies.auth - DEBUG - Authentication required for request GET /api/v1/auth/me
+2026-10-09 02:16:36,301 - core.config - DEBUG - Read dynamic attribute database_url from environment variable DATABASE_URL
+2026-10-09 02:16:36,302 - core.database - INFO - Using QueuePool for non-Lambda environment (pool_pre_ping=True, pool_size=5, max_overflow=5, pool_recycle=280s, pool_timeout=30s, pool_use_lifo=True)
+2026-10-09 02:16:36,429 - core.database - INFO - Database connection initialized successfully
+2026-10-09 02:16:36,714 - routers.auth - INFO - [token/exchange] Received platform token exchange request
+2026-10-09 02:16:36,715 - core.config - DEBUG - Read dynamic attribute oidc_issuer_url from environment variable OIDC_ISSUER_URL
+2026-10-09 02:16:36,715 - routers.auth - DEBUG - [token/exchange] Verifying token with issuer: https://auth.atoms.dev/api/v1/oidc/platform/tokens/verify
+2026-10-09 02:16:36,917 - httpcore.connection - DEBUG - connect_tcp.started host='auth.atoms.dev' port=443 local_address=None timeout=5.0 socket_options=None
+2026-10-09 02:16:36,919 - dependencies.auth - DEBUG - Authentication required for request GET /api/v1/auth/me
+2026-10-09 02:16:36,999 - httpcore.connection - DEBUG - connect_tcp.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x7f44c1c015d0>
+2026-10-09 02:16:37,000 - httpcore.connection - DEBUG - start_tls.started ssl_context=<ssl.SSLContext object at 0x7f44c19197c0> server_hostname='auth.atoms.dev' timeout=5.0
+2026-10-09 02:16:37,008 - httpcore.connection - DEBUG - start_tls.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x7f44c1c03760>
+2026-10-09 02:16:37,008 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2026-10-09 02:16:37,009 - httpcore.http11 - DEBUG - send_request_headers.complete
+2026-10-09 02:16:37,009 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2026-10-09 02:16:37,009 - httpcore.http11 - DEBUG - send_request_body.complete
+2026-10-09 02:16:37,009 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2026-10-09 02:16:37,051 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Fri, 09 Oct 2026 09:16:37 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'CF-Ray', b'a47c499b5eaf3d78-LAX'), (b'CF-Cache-Status', b'DYNAMIC'), (b'Server', b'cloudflare'), (b'x-mgx-request-id', b'f68c62f4bbb9e75bc580b70dea0286de'), (b'x-request-id', b'f68c62f4bbb9e75bc580b70dea0286de'), (b'x-response-time', b'0.002s'), (b'Content-Encoding', b'gzip')])
+2026-10-09 02:16:37,052 - httpx - INFO - HTTP Request: POST https://auth.atoms.dev/api/v1/oidc/platform/tokens/verify "HTTP/1.1 200 OK"
+2026-10-09 02:16:37,052 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2026-10-09 02:16:37,053 - httpcore.http11 - DEBUG - receive_response_body.complete
+2026-10-09 02:16:37,053 - httpcore.http11 - DEBUG - response_closed.started
+2026-10-09 02:16:37,053 - httpcore.http11 - DEBUG - response_closed.complete
+2026-10-09 02:16:37,053 - httpcore.connection - DEBUG - close.started
+2026-10-09 02:16:37,054 - httpcore.connection - DEBUG - close.complete
+2026-10-09 02:16:37,054 - routers.auth - DEBUG - [token/exchange] Issuer response status: 200
+2026-10-09 02:16:37,054 - routers.auth - DEBUG - [token/exchange] Issuer response body: {'success': True, 'data': {'email': '473332451@qq.com', 'exp': 1794122161, 'iat': 1791530161, 'pv': 0, 'user_id': 1628001}, 'message': 'Platform token verified', 'code': 0, 'timestamp': '2026-10-09T17:16:37.044685'}
+2026-10-09 02:16:37,054 - routers.auth - INFO - [token/exchange] Token verified, platform_user_id=1628001, email=473332451@qq.com
+2026-10-09 02:16:37,054 - core.config - DEBUG - Read dynamic attribute admin_user_id from environment variable ADMIN_USER_ID
+2026-10-09 02:16:37,054 - routers.auth - INFO - [token/exchange] User verified: platform_user_id=1628001, role=admin
+2026-10-09 02:16:37,056 - routers.auth - DEBUG - [token/exchange] User object for token issuance: id=1628001, email=473332451@qq.com, role=admin
+2026-10-09 02:16:37,056 - core.config - DEBUG - Read dynamic attribute jwt_expire_minutes from environment variable JWT_EXPIRE_MINUTES
+2026-10-09 02:16:37,056 - core.config - DEBUG - Read dynamic attribute jwt_secret_key from environment variable JWT_SECRET_KEY
+2026-10-09 02:16:37,140 - core.config - DEBUG - Read dynamic attribute jwt_algorithm from environment variable JWT_ALGORITHM
+2026-10-09 02:16:37,146 - routers.auth - INFO - [token/exchange] Token issued successfully for user_id=1628001, expires_at=2026-11-08 09:16:37.056570+00:00
+2026-10-09 02:16:37,281 - routers.auth - INFO - [token/exchange] Received platform token exchange request
+2026-10-09 02:16:37,281 - routers.auth - DEBUG - [token/exchange] Verifying token with issuer: https://auth.atoms.dev/api/v1/oidc/platform/tokens/verify
+2026-10-09 02:16:37,310 - httpcore.connection - DEBUG - connect_tcp.started host='auth.atoms.dev' port=443 local_address=None timeout=5.0 socket_options=None
+2026-10-09 02:16:37,343 - httpcore.connection - DEBUG - connect_tcp.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x7f44c2a5b640>
+2026-10-09 02:16:37,344 - httpcore.connection - DEBUG - start_tls.started ssl_context=<ssl.SSLContext object at 0x7f44c020a040> server_hostname='auth.atoms.dev' timeout=5.0
+2026-10-09 02:16:37,351 - httpcore.connection - DEBUG - start_tls.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x7f44c30d06d0>
+2026-10-09 02:16:37,352 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2026-10-09 02:16:37,352 - httpcore.http11 - DEBUG - send_request_headers.complete
+2026-10-09 02:16:37,353 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2026-10-09 02:16:37,353 - httpcore.http11 - DEBUG - send_request_body.complete
+2026-10-09 02:16:37,353 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2026-10-09 02:16:37,388 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Fri, 09 Oct 2026 09:16:37 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'CF-Ray', b'a47c499d7d9e56fd-LAX'), (b'CF-Cache-Status', b'DYNAMIC'), (b'Server', b'cloudflare'), (b'x-mgx-request-id', b'17f17b7d53974153b066d75a30f3bb31'), (b'x-request-id', b'17f17b7d53974153b066d75a30f3bb31'), (b'x-response-time', b'0.001s'), (b'Content-Encoding', b'gzip')])
+2026-10-09 02:16:37,389 - httpx - INFO - HTTP Request: POST https://auth.atoms.dev/api/v1/oidc/platform/tokens/verify "HTTP/1.1 200 OK"
+2026-10-09 02:16:37,390 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2026-10-09 02:16:37,390 - httpcore.http11 - DEBUG - receive_response_body.complete
+2026-10-09 02:16:37,390 - httpcore.http11 - DEBUG - response_closed.started
+2026-10-09 02:16:37,390 - httpcore.http11 - DEBUG - response_closed.complete
+2026-10-09 02:16:37,391 - httpcore.connection - DEBUG - close.started
+2026-10-09 02:16:37,391 - httpcore.connection - DEBUG - close.complete
+2026-10-09 02:16:37,391 - routers.auth - DEBUG - [token/exchange] Issuer response status: 200
+2026-10-09 02:16:37,391 - routers.auth - DEBUG - [token/exchange] Issuer response body: {'success': True, 'data': {'email': '473332451@qq.com', 'exp': 1794122161, 'iat': 1791530161, 'pv': 0, 'user_id': 1628001}, 'message': 'Platform token verified', 'code': 0, 'timestamp': '2026-10-09T17:16:37.384361'}
+2026-10-09 02:16:37,391 - routers.auth - INFO - [token/exchange] Token verified, platform_user_id=1628001, email=473332451@qq.com
+2026-10-09 02:16:37,391 - routers.auth - INFO - [token/exchange] User verified: platform_user_id=1628001, role=admin
+2026-10-09 02:16:37,392 - routers.auth - DEBUG - [token/exchange] User object for token issuance: id=1628001, email=473332451@qq.com, role=admin
+2026-10-09 02:16:37,392 - routers.auth - INFO - [token/exchange] Token issued successfully for user_id=1628001, expires_at=2026-11-08 09:16:37.392095+00:00
+2026-10-09 02:19:32,359 - main - INFO - === Logging system initialized ===
+2026-10-09 02:19:32,359 - main - INFO - Log file: logs/app_20261009.log
+2026-10-09 02:19:32,359 - main - INFO - Log level: DEBUG
+2026-10-09 02:19:32,359 - main - INFO - Log date: 20261009
+2026-10-09 02:19:32,463 - main - INFO - Included router: routers.aihub.router
+2026-10-09 02:19:33,220 - main - INFO - Included router: routers.auth.router
+2026-10-09 02:19:33,224 - main - INFO - Included router: routers.health.router
+2026-10-09 02:19:33,237 - main - INFO - Included router: routers.settings.router
+2026-10-09 02:19:33,261 - main - INFO - Included router: routers.storage.router
+2026-10-09 02:19:33,281 - main - INFO - Included router: routers.user.router
+2026-10-09 02:19:33,282 - main - INFO - === Application startup initiated ===
+2026-10-09 02:19:33,283 - main - INFO - === Application startup completed successfully ===
+2026-10-09 02:19:49,125 - main - INFO - === Logging system initialized ===
+2026-10-09 02:19:49,125 - main - INFO - Log file: logs/app_20261009.log
+2026-10-09 02:19:49,126 - main - INFO - Log level: DEBUG
+2026-10-09 02:19:49,126 - main - INFO - Log date: 20261009
+2026-10-09 02:19:49,262 - main - INFO - Included router: routers.aihub.router
+2026-10-09 02:19:50,330 - main - INFO - Included router: routers.auth.router
+2026-10-09 02:19:50,334 - main - INFO - Included router: routers.health.router
+2026-10-09 02:19:50,843 - main - INFO - Included router: routers.llm_proxy.router
+2026-10-09 02:19:50,902 - main - INFO - Included router: routers.settings.router
+2026-10-09 02:19:50,935 - main - INFO - Included router: routers.storage.router
+2026-10-09 02:19:50,953 - main - INFO - Included router: routers.user.router
+2026-10-09 02:19:50,954 - main - INFO - === Application startup initiated ===
+2026-10-09 02:19:50,954 - main - INFO - === Application startup completed successfully ===
+2026-10-09 02:21:46,801 - dependencies.auth - DEBUG - Authentication required for request GET /api/v1/auth/me
+2026-10-09 02:21:47,923 - core.config - DEBUG - Read dynamic attribute jwt_secret_key from environment variable JWT_SECRET_KEY
+2026-10-09 02:21:48,043 - core.config - DEBUG - Read dynamic attribute jwt_algorithm from environment variable JWT_ALGORITHM
+2026-10-09 02:24:10,645 - main - INFO - === Logging system initialized ===
+2026-10-09 02:24:10,645 - main - INFO - Log file: logs/app_20261009.log
+2026-10-09 02:24:10,645 - main - INFO - Log level: DEBUG
+2026-10-09 02:24:10,646 - main - INFO - Log date: 20261009
+2026-10-09 02:24:10,739 - main - INFO - Included router: routers.aihub.router
+2026-10-09 02:24:11,486 - main - INFO - Included router: routers.auth.router
+2026-10-09 02:24:11,495 - main - INFO - Included router: routers.health.router
+2026-10-09 02:24:11,775 - main - INFO - Included router: routers.llm_proxy.router
+2026-10-09 02:24:11,790 - main - INFO - Included router: routers.settings.router
+2026-10-09 02:24:11,813 - main - INFO - Included router: routers.storage.router
+2026-10-09 02:24:11,835 - main - INFO - Included router: routers.user.router
+2026-10-09 02:24:11,837 - main - INFO - === Application startup initiated ===
+2026-10-09 02:24:11,837 - main - INFO - === Application startup completed successfully ===
+2026-10-09 03:55:11,999 - main - INFO - === Logging system initialized ===
+2026-10-09 03:55:12,000 - main - INFO - Log file: logs/app_20261009.log
+2026-10-09 03:55:12,000 - main - INFO - Log level: DEBUG
+2026-10-09 03:55:12,000 - main - INFO - Log date: 20261009
+2026-10-09 03:55:12,500 - main - INFO - Included router: routers.aihub.router
+2026-10-09 03:55:14,577 - main - INFO - Included router: routers.auth.router
+2026-10-09 03:55:14,917 - main - INFO - Included router: routers.chat_sessions.router
+2026-10-09 03:55:14,997 - main - INFO - Included router: routers.health.router
+2026-10-09 03:55:15,440 - main - INFO - Included router: routers.llm_proxy.router
+2026-10-09 03:55:15,505 - main - INFO - Included router: routers.settings.router
+2026-10-09 03:55:15,529 - main - INFO - Included router: routers.share.router
+2026-10-09 03:55:15,575 - main - INFO - Included router: routers.shared_apps.router
+2026-10-09 03:55:15,753 - main - INFO - Included router: routers.storage.router
+2026-10-09 03:55:15,879 - main - INFO - Included router: routers.user.router
+2026-10-09 03:55:15,880 - main - INFO - === Application startup initiated ===
+2026-10-09 03:55:15,880 - main - INFO - === Application startup completed successfully ===
+2026-10-09 03:57:55,640 - main - INFO - === Logging system initialized ===
+2026-10-09 03:57:55,640 - main - INFO - Log file: logs/app_20261009.log
+2026-10-09 03:57:55,640 - main - INFO - Log level: DEBUG
+2026-10-09 03:57:55,640 - main - INFO - Log date: 20261009
+2026-10-09 03:57:55,749 - main - INFO - Included router: routers.aihub.router
+2026-10-09 03:57:56,458 - main - INFO - Included router: routers.auth.router
+2026-10-09 03:57:56,550 - main - INFO - Included router: routers.chat_sessions.router
+2026-10-09 03:57:56,552 - main - INFO - Included router: routers.health.router
+2026-10-09 03:57:56,768 - main - INFO - Included router: routers.llm_proxy.router
+2026-10-09 03:57:56,780 - main - INFO - Included router: routers.settings.router
+2026-10-09 03:57:56,792 - main - INFO - Included router: routers.share.router
+2026-10-09 03:57:56,816 - main - INFO - Included router: routers.shared_apps.router
+2026-10-09 03:57:56,837 - main - INFO - Included router: routers.storage.router
+2026-10-09 03:57:56,850 - main - INFO - Included router: routers.user.router
+2026-10-09 03:57:56,851 - main - INFO - === Application startup initiated ===
+2026-10-09 03:57:56,851 - main - INFO - === Application startup completed successfully ===
+2026-10-09 04:00:11,149 - dependencies.auth - DEBUG - Authentication required for request GET /api/v1/auth/me
+2026-10-09 04:02:37,811 - main - INFO - === Logging system initialized ===
+2026-10-09 04:02:37,811 - main - INFO - Log file: logs/app_20261009.log
+2026-10-09 04:02:37,811 - main - INFO - Log level: DEBUG
+2026-10-09 04:02:37,811 - main - INFO - Log date: 20261009
+2026-10-09 04:02:37,911 - main - INFO - Included router: routers.aihub.router
+2026-10-09 04:02:38,597 - main - INFO - Included router: routers.auth.router
+2026-10-09 04:02:38,716 - main - INFO - Included router: routers.chat_sessions.router
+2026-10-09 04:02:38,719 - main - INFO - Included router: routers.health.router
+2026-10-09 04:02:38,955 - main - INFO - Included router: routers.llm_proxy.router
+2026-10-09 04:02:38,967 - main - INFO - Included router: routers.settings.router
+2026-10-09 04:02:38,973 - main - INFO - Included router: routers.share.router
+2026-10-09 04:02:38,994 - main - INFO - Included router: routers.shared_apps.router
+2026-10-09 04:02:39,012 - main - INFO - Included router: routers.storage.router
+2026-10-09 04:02:39,061 - main - INFO - Included router: routers.user.router
+2026-10-09 04:02:39,062 - main - INFO - === Application startup initiated ===
+2026-10-09 04:02:39,062 - main - INFO - === Application startup completed successfully ===
+2026-10-09 04:06:10,913 - main - INFO - === Logging system initialized ===
+2026-10-09 04:06:10,913 - main - INFO - Log file: logs/app_20261009.log
+2026-10-09 04:06:10,913 - main - INFO - Log level: DEBUG
+2026-10-09 04:06:10,913 - main - INFO - Log date: 20261009
+2026-10-09 04:06:11,012 - main - INFO - Included router: routers.aihub.router
+2026-10-09 04:06:11,767 - main - INFO - Included router: routers.auth.router
+2026-10-09 04:06:11,863 - main - INFO - Included router: routers.chat_sessions.router
+2026-10-09 04:06:11,866 - main - INFO - Included router: routers.health.router
+2026-10-09 04:06:12,095 - main - INFO - Included router: routers.llm_proxy.router
+2026-10-09 04:06:12,111 - main - INFO - Included router: routers.settings.router
+2026-10-09 04:06:12,121 - main - INFO - Included router: routers.share.router
+2026-10-09 04:06:12,145 - main - INFO - Included router: routers.shared_apps.router
+2026-10-09 04:06:12,164 - main - INFO - Included router: routers.storage.router
+2026-10-09 04:06:12,175 - main - INFO - Included router: routers.user.router
+2026-10-09 04:06:12,177 - main - INFO - === Application startup initiated ===
+2026-10-09 04:06:12,177 - main - INFO - === Application startup completed successfully ===
+2026-10-09 04:08:26,853 - core.config - DEBUG - Read dynamic attribute jwt_secret_key from environment variable JWT_SECRET_KEY
+2026-10-09 04:08:26,931 - core.config - DEBUG - Read dynamic attribute jwt_algorithm from environment variable JWT_ALGORITHM
+2026-10-09 04:08:26,937 - core.config - DEBUG - Read dynamic attribute database_url from environment variable DATABASE_URL
+2026-10-09 04:08:26,938 - core.database - INFO - Using QueuePool for non-Lambda environment (pool_pre_ping=True, pool_size=5, max_overflow=5, pool_recycle=280s, pool_timeout=30s, pool_use_lifo=True)
+2026-10-09 04:08:26,979 - core.database - INFO - Database connection initialized successfully
+2026-10-09 04:08:26,979 - routers.chat_sessions - DEBUG - Querying chat_sessionss: query={}, sort=-updated_ms, skip=0, limit=200, fields=None
+2026-10-09 04:08:28,227 - routers.chat_sessions - DEBUG - Found 1 chat_sessionss
+2026-10-09 04:08:33,837 - routers.chat_sessions - DEBUG - Deleting chat_sessions with id: 2
+2026-10-09 04:08:34,487 - services.chat_sessions - INFO - Deleted chat_sessions 2
+2026-10-09 04:08:34,487 - routers.chat_sessions - INFO - Chat_sessions 2 deleted successfully
+2026-10-09 04:09:34,340 - routers.chat_sessions - DEBUG - Querying chat_sessionss: query={}, sort=-updated_ms, skip=0, limit=200, fields=None
+2026-10-09 04:09:34,757 - routers.chat_sessions - DEBUG - Found 0 chat_sessionss
+2026-10-09 04:09:51,699 - core.config - DEBUG - Read dynamic attribute frontend_url from environment variable FRONTEND_URL
+2026-10-09 04:09:51,699 - core.config - DEBUG - Read dynamic attribute oidc_issuer_url from environment variable OIDC_ISSUER_URL
+2026-10-09 04:09:54,780 - dependencies.auth - DEBUG - Authentication required for request GET /api/v1/auth/me
+2026-10-09 04:09:56,565 - routers.auth - DEBUG - [get_dynamic_backend_url] mgx-external-domain=None, x-forwarded-host=oem2bd-65ea891d3ba145968521722927da1b41-preview.app.atoms.dev, host=localhost, scheme=https, dynamic_url=https://oem2bd-65ea891d3ba145968521722927da1b41-preview.app.atoms.dev
+2026-10-09 04:09:56,565 - routers.auth - INFO - [login] Starting OIDC flow with redirect_uri=https://oem2bd-65ea891d3ba145968521722927da1b41-preview.app.atoms.dev/api/v1/auth/callback
+2026-10-09 04:09:56,565 - core.config - DEBUG - Read dynamic attribute oidc_client_id from environment variable OIDC_CLIENT_ID
+2026-10-09 04:09:56,565 - core.config - DEBUG - Read dynamic attribute oidc_scope from environment variable OIDC_SCOPE
+2026-10-09 04:10:03,058 - routers.auth - DEBUG - [get_dynamic_backend_url] mgx-external-domain=None, x-forwarded-host=oem2bd-65ea891d3ba145968521722927da1b41-preview.app.atoms.dev, host=localhost, scheme=https, dynamic_url=https://oem2bd-65ea891d3ba145968521722927da1b41-preview.app.atoms.dev
+2026-10-09 04:10:03,651 - routers.auth - INFO - [callback] Exchanging code for tokens with redirect_uri=https://oem2bd-65ea891d3ba145968521722927da1b41-preview.app.atoms.dev/api/v1/auth/callback
+2026-10-09 04:10:03,652 - core.config - DEBUG - Read dynamic attribute oidc_client_secret from environment variable OIDC_CLIENT_SECRET
+2026-10-09 04:10:03,945 - httpcore.connection - DEBUG - connect_tcp.started host='auth.atoms.dev' port=443 local_address=None timeout=5.0 socket_options=None
+2026-10-09 04:10:03,962 - httpcore.connection - DEBUG - connect_tcp.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x7f2faca862f0>
+2026-10-09 04:10:03,962 - httpcore.connection - DEBUG - start_tls.started ssl_context=<ssl.SSLContext object at 0x7f2facaaa6c0> server_hostname='auth.atoms.dev' timeout=5.0
+2026-10-09 04:10:03,969 - httpcore.connection - DEBUG - start_tls.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x7f2faca84250>
+2026-10-09 04:10:03,970 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2026-10-09 04:10:03,970 - httpcore.http11 - DEBUG - send_request_headers.complete
+2026-10-09 04:10:03,970 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2026-10-09 04:10:03,970 - httpcore.http11 - DEBUG - send_request_body.complete
+2026-10-09 04:10:03,971 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2026-10-09 04:10:04,071 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Fri, 09 Oct 2026 11:10:04 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'CF-Ray', b'a47cefcadd3ecba2-LAX'), (b'CF-Cache-Status', b'DYNAMIC'), (b'Server', b'cloudflare'), (b'x-mgx-request-id', b'1ad0rK7cFg70hy4Mk6YoYZBl3lVJj-iRjItD2xa2ezI'), (b'x-request-id', b'1ad0rK7cFg70hy4Mk6YoYZBl3lVJj-iRjItD2xa2ezI'), (b'x-response-time', b'0.067s'), (b'Content-Encoding', b'gzip')])
+2026-10-09 04:10:04,072 - httpx - INFO - HTTP Request: POST https://auth.atoms.dev/api/v1/oidc/token "HTTP/1.1 200 OK"
+2026-10-09 04:10:04,072 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2026-10-09 04:10:04,072 - httpcore.http11 - DEBUG - receive_response_body.complete
+2026-10-09 04:10:04,072 - httpcore.http11 - DEBUG - response_closed.started
+2026-10-09 04:10:04,073 - httpcore.http11 - DEBUG - response_closed.complete
+2026-10-09 04:10:04,073 - httpcore.connection - DEBUG - close.started
+2026-10-09 04:10:04,073 - httpcore.connection - DEBUG - close.complete
+2026-10-09 04:10:04,097 - core.auth - INFO - Fetching JWKS from: https://auth.atoms.dev/api/v1/oidc/.well-known/jwks.json
+2026-10-09 04:10:04,098 - httpcore.connection - DEBUG - connect_tcp.started host='auth.atoms.dev' port=443 local_address=None timeout=60.0 socket_options=None
+2026-10-09 04:10:04,110 - httpcore.connection - DEBUG - connect_tcp.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x7f2fa6635c60>
+2026-10-09 04:10:04,110 - httpcore.connection - DEBUG - start_tls.started ssl_context=<ssl.SSLContext object at 0x7f2facaaa740> server_hostname='auth.atoms.dev' timeout=60.0
+2026-10-09 04:10:04,117 - httpcore.connection - DEBUG - start_tls.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x7f2fa6634df0>
+2026-10-09 04:10:04,117 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'GET']>
+2026-10-09 04:10:04,118 - httpcore.http11 - DEBUG - send_request_headers.complete
+2026-10-09 04:10:04,118 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'GET']>
+2026-10-09 04:10:04,118 - httpcore.http11 - DEBUG - send_request_body.complete
+2026-10-09 04:10:04,118 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'GET']>
+2026-10-09 04:10:04,145 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Fri, 09 Oct 2026 11:10:04 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'CF-Ray', b'a47cefcbbc0ebe08-LAX'), (b'CF-Cache-Status', b'DYNAMIC'), (b'Cache-Control', b'public, max-age=3600'), (b'Server', b'cloudflare'), (b'x-mgx-request-id', b'eb53873887b4befdf33e3862c91301d3'), (b'x-request-id', b'eb53873887b4befdf33e3862c91301d3'), (b'x-response-time', b'0.001s'), (b'Content-Encoding', b'gzip')])
+2026-10-09 04:10:04,146 - httpx - INFO - HTTP Request: GET https://auth.atoms.dev/api/v1/oidc/.well-known/jwks.json "HTTP/1.1 200 OK"
+2026-10-09 04:10:04,146 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'GET']>
+2026-10-09 04:10:04,147 - httpcore.http11 - DEBUG - receive_response_body.complete
+2026-10-09 04:10:04,147 - httpcore.http11 - DEBUG - response_closed.started
+2026-10-09 04:10:04,147 - httpcore.http11 - DEBUG - response_closed.complete
+2026-10-09 04:10:04,147 - core.auth - INFO - Successfully fetched JWKS with 1 keys
+2026-10-09 04:10:04,148 - httpcore.connection - DEBUG - close.started
+2026-10-09 04:10:04,148 - httpcore.connection - DEBUG - close.complete
+2026-10-09 04:10:04,149 - services.auth - DEBUG - [DB_OP] Starting get_or_create_user - platform_sub: 1628001
+2026-10-09 04:10:04,511 - services.auth - DEBUG - [DB_OP] User lookup completed in 0.3620s - found: True
+2026-10-09 04:10:04,511 - core.config - DEBUG - Read dynamic attribute admin_user_id from environment variable ADMIN_USER_ID
+2026-10-09 04:10:04,512 - services.auth - DEBUG - [DB_OP] Starting user commit/refresh
+2026-10-09 04:10:04,988 - services.auth - DEBUG - [DB_OP] User commit/refresh completed in 0.4766s
+2026-10-09 04:10:04,989 - core.config - DEBUG - Read dynamic attribute jwt_expire_minutes from environment variable JWT_EXPIRE_MINUTES
+2026-10-09 04:10:04,989 - routers.auth - INFO - [callback] OIDC callback successful, redirecting to https://oem2bd-65ea891d3ba145968521722927da1b41-preview.app.atoms.dev/auth/callback?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxNjI4MDAxIiwiZW1haWwiOiI0NzMzMzI0NTFAcXEuY29tIiwicm9sZSI6ImFkbWluIiwibmFtZSI6IjQ3MzMzMjQ1MSIsImxhc3RfbG9naW4iOiIyMDI2LTEwLTA5VDExOjEwOjA0LjUxMjA5NCswMDowMCIsImV4cCI6MTc5NDEzNjIwNCwiaWF0IjoxNzkxNTQ0MjA0LCJuYmYiOjE3OTE1NDQyMDR9.e4P4CYjNP3zSDtifatG5I3ACO-YrLwLJfE0oQTvMrAQ&expires_at=1794136204&token_type=Bearer
+2026-10-09 04:10:08,327 - routers.chat_sessions - DEBUG - Querying chat_sessionss: query={}, sort=-updated_ms, skip=0, limit=200, fields=None
+2026-10-09 04:10:08,683 - routers.chat_sessions - DEBUG - Found 0 chat_sessionss
+2026-10-09 04:10:13,680 - routers.chat_sessions - DEBUG - Creating new chat_sessions with data: session_key='0twtxkxb0r1p' title='番茄钟专注计时器，带统计图' data='{"id":"0twtxkxb0r1p","title":"番茄钟专注计时器，带统计图","messages":[{"id":"xja8ebvu5ie","role":"user","content":"番茄钟专注计时器，带统计图","images":[]},{"id":"6b7a3m0a6gf","role":"agent","agent":"Emma","content":"","status":"done"},{"id":"2g23dhidct","role":"agent","agent":"Alex","content":"模型接口返回 401：{\\"error\\":{\\"message\\":\\"Incorrect API key provided. For details, see: https://help.aliyun.com/zh/model-studio/error-code#apikey-error\\",\\"type\\":\\"invalid_request_error\\",\\"param\\":null,\\"code\\":\\"invalid_api_key\\"},\\"request_id\\":\\"42ff4812-8de1-9764-8d07-878ef4d192d1\\"}","status":"error"}],"versions":[],"current":null,"updatedAt":1791544211986}' updated_ms=1791544211986.0
+2026-10-09 04:10:14,453 - services.chat_sessions - INFO - Created chat_sessions with id: 3
+2026-10-09 04:10:14,453 - routers.chat_sessions - INFO - Chat_sessions created successfully with id: 3
+2026-10-09 04:15:07,611 - main - INFO - === Logging system initialized ===
+2026-10-09 04:15:07,612 - main - INFO - Log file: logs/app_20261009.log
+2026-10-09 04:15:07,612 - main - INFO - Log level: DEBUG
+2026-10-09 04:15:07,612 - main - INFO - Log date: 20261009
+2026-10-09 04:15:07,714 - main - INFO - Included router: routers.aihub.router
+2026-10-09 04:15:08,353 - main - INFO - Included router: routers.auth.router
+2026-10-09 04:15:08,451 - main - INFO - Included router: routers.chat_sessions.router
+2026-10-09 04:15:08,455 - main - INFO - Included router: routers.health.router
+2026-10-09 04:15:08,682 - main - INFO - Included router: routers.llm_proxy.router
+2026-10-09 04:15:08,712 - main - INFO - Included router: routers.settings.router
+2026-10-09 04:15:08,718 - main - INFO - Included router: routers.share.router
+2026-10-09 04:15:08,737 - main - INFO - Included router: routers.shared_apps.router
+2026-10-09 04:15:08,755 - main - INFO - Included router: routers.storage.router
+2026-10-09 04:15:08,770 - main - INFO - Included router: routers.user.router
+2026-10-09 04:15:08,772 - main - INFO - === Application startup initiated ===
+2026-10-09 04:15:08,772 - main - INFO - === Application startup completed successfully ===
+2026-10-09 04:17:24,803 - core.config - DEBUG - Read dynamic attribute jwt_secret_key from environment variable JWT_SECRET_KEY
+2026-10-09 04:17:24,887 - core.config - DEBUG - Read dynamic attribute jwt_algorithm from environment variable JWT_ALGORITHM
+2026-10-09 04:17:24,894 - core.config - DEBUG - Read dynamic attribute database_url from environment variable DATABASE_URL
+2026-10-09 04:17:24,895 - core.database - INFO - Using QueuePool for non-Lambda environment (pool_pre_ping=True, pool_size=5, max_overflow=5, pool_recycle=280s, pool_timeout=30s, pool_use_lifo=True)
+2026-10-09 04:17:24,940 - core.database - INFO - Database connection initialized successfully
+2026-10-09 04:17:24,941 - routers.chat_sessions - DEBUG - Querying chat_sessionss: query={}, sort=-updated_ms, skip=0, limit=200, fields=None
+2026-10-09 04:17:26,177 - routers.chat_sessions - DEBUG - Found 1 chat_sessionss
+2026-10-09 04:17:28,585 - routers.chat_sessions - DEBUG - Creating new chat_sessions with data: session_key='0twtxkxb0r1p' title='番茄钟专注计时器，带统计图' data='{"id":"0twtxkxb0r1p","title":"番茄钟专注计时器，带统计图","messages":[{"id":"xja8ebvu5ie","role":"user","content":"番茄钟专注计时器，带统计图","images":[]},{"id":"6b7a3m0a6gf","role":"agent","agent":"Emma","content":"","status":"done"},{"id":"2g23dhidct","role":"agent","agent":"Alex","content":"模型接口返回 401：{\\"error\\":{\\"message\\":\\"Incorrect API key provided. For details, see: https://help.aliyun.com/zh/model-studio/error-code#apikey-error\\",\\"type\\":\\"invalid_request_error\\",\\"param\\":null,\\"code\\":\\"invalid_api_key\\"},\\"request_id\\":\\"42ff4812-8de1-9764-8d07-878ef4d192d1\\"}","status":"error"},{"id":"tcn1pqcgzc","role":"user","content":"你哈珀","images":[]},{"id":"gy0ses50ah","role":"agent","agent":"Emma","content":"Emma 分析：这是一个基于《星露谷物语》角色“哈珀”的互动应用，需要创建一个温馨的游戏风格界面。核心功能包括：1）哈珀角色展示与动画效果；2）对话系统，显示预设或随机回复；3）互动按钮如喂食、抚摸等；4）心情值显示系统；5）背景音乐播放。设计采用暖色调搭配像素艺术风格，确保界面可爱亲和。","status":"done"},{"id":"5nsnllb1pf3","role":"agent","agent":"Alex","content":"正在编写代码：\\n✓ index.html\\n✎ style.css","status":"error"}],"versions":[],"current":null,"updatedAt":1791544249236}' updated_ms=1791544249236.0
+2026-10-09 04:17:29,413 - services.chat_sessions - INFO - Created chat_sessions with id: 5
+2026-10-09 04:17:29,413 - routers.chat_sessions - INFO - Chat_sessions created successfully with id: 5
+2026-10-09 04:17:46,791 - main - INFO - === Logging system initialized ===
+2026-10-09 04:17:46,791 - main - INFO - Log file: logs/app_20261009.log
+2026-10-09 04:17:46,791 - main - INFO - Log level: DEBUG
+2026-10-09 04:17:46,791 - main - INFO - Log date: 20261009
+2026-10-09 04:17:46,884 - main - INFO - Included router: routers.aihub.router
+2026-10-09 04:17:47,516 - main - INFO - Included router: routers.auth.router
+2026-10-09 04:17:47,629 - main - INFO - Included router: routers.chat_sessions.router
+2026-10-09 04:17:47,632 - main - INFO - Included router: routers.health.router
+2026-10-09 04:17:47,859 - main - INFO - Included router: routers.llm_proxy.router
+2026-10-09 04:17:47,871 - main - INFO - Included router: routers.settings.router
+2026-10-09 04:17:47,878 - main - INFO - Included router: routers.share.router
+2026-10-09 04:17:47,900 - main - INFO - Included router: routers.shared_apps.router
+2026-10-09 04:17:47,920 - main - INFO - Included router: routers.storage.router
+2026-10-09 04:17:47,932 - main - INFO - Included router: routers.user.router
+2026-10-09 04:17:47,974 - main - INFO - Included router: routers.user_api_keys.router
+2026-10-09 04:17:47,975 - main - INFO - === Application startup initiated ===
+2026-10-09 04:17:47,976 - main - INFO - === Application startup completed successfully ===
+2026-10-09 04:17:59,790 - main - INFO - === Logging system initialized ===
+2026-10-09 04:17:59,791 - main - INFO - Log file: logs/app_20261009.log
+2026-10-09 04:17:59,791 - main - INFO - Log level: DEBUG
+2026-10-09 04:17:59,791 - main - INFO - Log date: 20261009
+2026-10-09 04:17:59,890 - main - INFO - Included router: routers.aihub.router
+2026-10-09 04:18:00,525 - main - INFO - Included router: routers.auth.router
+2026-10-09 04:18:00,637 - main - INFO - Included router: routers.chat_sessions.router
+2026-10-09 04:18:00,641 - main - INFO - Included router: routers.health.router
+2026-10-09 04:18:00,881 - main - INFO - Included router: routers.llm_proxy.router
+2026-10-09 04:18:00,906 - main - INFO - Included router: routers.settings.router
+2026-10-09 04:18:00,913 - main - INFO - Included router: routers.share.router
+2026-10-09 04:18:00,933 - main - INFO - Included router: routers.shared_apps.router
+2026-10-09 04:18:00,953 - main - INFO - Included router: routers.storage.router
+2026-10-09 04:18:00,965 - main - INFO - Included router: routers.user.router
+2026-10-09 04:18:00,991 - main - INFO - Included router: routers.user_api_keys.router
+2026-10-09 04:18:00,992 - main - INFO - === Application startup initiated ===
+2026-10-09 04:18:00,992 - main - INFO - === Application startup completed successfully ===
+2026-10-09 04:18:13,692 - core.config - DEBUG - Read dynamic attribute jwt_secret_key from environment variable JWT_SECRET_KEY
+2026-10-09 04:18:13,781 - core.config - DEBUG - Read dynamic attribute jwt_algorithm from environment variable JWT_ALGORITHM
+2026-10-09 04:18:13,788 - core.config - DEBUG - Read dynamic attribute database_url from environment variable DATABASE_URL
+2026-10-09 04:18:13,789 - core.database - INFO - Using QueuePool for non-Lambda environment (pool_pre_ping=True, pool_size=5, max_overflow=5, pool_recycle=280s, pool_timeout=30s, pool_use_lifo=True)
+2026-10-09 04:18:13,836 - core.database - INFO - Database connection initialized successfully
+2026-10-09 04:18:13,837 - routers.chat_sessions - DEBUG - Deleting chat_sessions with id: 5
+2026-10-09 04:18:15,174 - services.chat_sessions - INFO - Deleted chat_sessions 5
+2026-10-09 04:18:15,174 - routers.chat_sessions - INFO - Chat_sessions 5 deleted successfully
+2026-10-09 04:26:27,913 - main - INFO - === Logging system initialized ===
+2026-10-09 04:26:27,913 - main - INFO - Log file: logs/app_20261009.log
+2026-10-09 04:26:27,913 - main - INFO - Log level: DEBUG
+2026-10-09 04:26:27,913 - main - INFO - Log date: 20261009
+2026-10-09 04:26:28,202 - main - INFO - Included router: routers.aihub.router
+2026-10-09 04:26:30,224 - main - INFO - Included router: routers.api_keys.router
+2026-10-09 04:26:30,232 - main - INFO - Included router: routers.auth.router
+2026-10-09 04:26:30,405 - main - INFO - Included router: routers.chat_sessions.router
+2026-10-09 04:26:30,409 - main - INFO - Included router: routers.health.router
+2026-10-09 04:26:30,818 - main - INFO - Included router: routers.llm_proxy.router
+2026-10-09 04:26:30,845 - main - INFO - Included router: routers.settings.router
+2026-10-09 04:26:30,853 - main - INFO - Included router: routers.share.router
+2026-10-09 04:26:30,903 - main - INFO - Included router: routers.shared_apps.router
+2026-10-09 04:26:31,005 - main - INFO - Included router: routers.storage.router
+2026-10-09 04:26:31,111 - main - INFO - Included router: routers.user.router
+2026-10-09 04:26:31,135 - main - INFO - Included router: routers.user_api_keys.router
+2026-10-09 04:26:31,136 - main - INFO - === Application startup initiated ===
+2026-10-09 04:26:31,136 - main - INFO - === Application startup completed successfully ===
+2026-10-09 04:27:18,147 - main - INFO - === Logging system initialized ===
+2026-10-09 04:27:18,147 - main - INFO - Log file: logs/app_20261009.log
+2026-10-09 04:27:18,148 - main - INFO - Log level: DEBUG
+2026-10-09 04:27:18,148 - main - INFO - Log date: 20261009
+2026-10-09 04:27:18,257 - main - INFO - Included router: routers.aihub.router
+2026-10-09 04:27:18,938 - main - INFO - Included router: routers.api_keys.router
+2026-10-09 04:27:18,944 - main - INFO - Included router: routers.auth.router
+2026-10-09 04:27:19,066 - main - INFO - Included router: routers.chat_sessions.router
+2026-10-09 04:27:19,070 - main - INFO - Included router: routers.health.router
+2026-10-09 04:27:19,302 - main - INFO - Included router: routers.llm_proxy.router
+2026-10-09 04:27:19,337 - main - INFO - Included router: routers.settings.router
+2026-10-09 04:27:19,349 - main - INFO - Included router: routers.share.router
+2026-10-09 04:27:19,384 - main - INFO - Included router: routers.shared_apps.router
+2026-10-09 04:27:19,410 - main - INFO - Included router: routers.storage.router
+2026-10-09 04:27:19,422 - main - INFO - Included router: routers.user.router
+2026-10-09 04:27:19,444 - main - INFO - Included router: routers.user_api_keys.router
+2026-10-09 04:27:19,445 - main - INFO - === Application startup initiated ===
+2026-10-09 04:27:19,445 - main - INFO - === Application startup completed successfully ===
+2026-10-09 04:27:32,608 - main - INFO - === Logging system initialized ===
+2026-10-09 04:27:32,608 - main - INFO - Log file: logs/app_20261009.log
+2026-10-09 04:27:32,608 - main - INFO - Log level: DEBUG
+2026-10-09 04:27:32,608 - main - INFO - Log date: 20261009
+2026-10-09 04:27:32,708 - main - INFO - Included router: routers.aihub.router
+2026-10-09 04:27:33,466 - main - INFO - Included router: routers.api_keys.router
+2026-10-09 04:27:33,474 - main - INFO - Included router: routers.auth.router
+2026-10-09 04:27:33,589 - main - INFO - Included router: routers.chat_sessions.router
+2026-10-09 04:27:33,593 - main - INFO - Included router: routers.health.router
+2026-10-09 04:27:33,821 - main - INFO - Included router: routers.llm_proxy.router
+2026-10-09 04:27:33,831 - main - INFO - Included router: routers.settings.router
+2026-10-09 04:27:33,838 - main - INFO - Included router: routers.share.router
+2026-10-09 04:27:33,859 - main - INFO - Included router: routers.shared_apps.router
+2026-10-09 04:27:33,892 - main - INFO - Included router: routers.storage.router
+2026-10-09 04:27:33,903 - main - INFO - Included router: routers.user.router
+2026-10-09 04:27:33,927 - main - INFO - Included router: routers.user_api_keys.router
+2026-10-09 04:27:33,928 - main - INFO - === Application startup initiated ===
+2026-10-09 04:27:33,928 - main - INFO - === Application startup completed successfully ===
+2026-10-09 04:27:34,980 - main - INFO - === Logging system initialized ===
+2026-10-09 04:27:34,980 - main - INFO - Log file: logs/app_20261009.log
+2026-10-09 04:27:34,980 - main - INFO - Log level: DEBUG
+2026-10-09 04:27:34,980 - main - INFO - Log date: 20261009
+2026-10-09 04:27:35,080 - main - INFO - Included router: routers.aihub.router
+2026-10-09 04:27:35,787 - main - INFO - Included router: routers.api_keys.router
+2026-10-09 04:27:35,794 - main - INFO - Included router: routers.auth.router
+2026-10-09 04:27:35,888 - main - INFO - Included router: routers.chat_sessions.router
+2026-10-09 04:27:35,890 - main - INFO - Included router: routers.health.router
+2026-10-09 04:27:36,130 - main - INFO - Included router: routers.llm_proxy.router
+2026-10-09 04:27:36,161 - main - INFO - Included router: routers.settings.router
+2026-10-09 04:27:36,170 - main - INFO - Included router: routers.share.router
+2026-10-09 04:27:36,199 - main - INFO - Included router: routers.shared_apps.router
+2026-10-09 04:27:36,224 - main - INFO - Included router: routers.storage.router
+2026-10-09 04:27:36,246 - main - INFO - Included router: routers.user.router
+2026-10-09 04:27:36,267 - main - INFO - Included router: routers.user_api_keys.router
+2026-10-09 04:27:36,268 - main - INFO - === Application startup initiated ===
+2026-10-09 04:27:36,268 - main - INFO - === Application startup completed successfully ===
+2026-10-09 04:27:47,516 - main - INFO - === Logging system initialized ===
+2026-10-09 04:27:47,517 - main - INFO - Log file: logs/app_20261009.log
+2026-10-09 04:27:47,517 - main - INFO - Log level: DEBUG
+2026-10-09 04:27:47,517 - main - INFO - Log date: 20261009
+2026-10-09 04:27:47,610 - main - INFO - Included router: routers.aihub.router
+2026-10-09 04:27:48,291 - main - INFO - Included router: routers.api_keys.router
+2026-10-09 04:27:48,299 - main - INFO - Included router: routers.auth.router
+2026-10-09 04:27:48,398 - main - INFO - Included router: routers.chat_sessions.router
+2026-10-09 04:27:48,401 - main - INFO - Included router: routers.health.router
+2026-10-09 04:27:48,648 - main - INFO - Included router: routers.llm_proxy.router
+2026-10-09 04:27:48,671 - main - INFO - Included router: routers.settings.router
+2026-10-09 04:27:48,685 - main - INFO - Included router: routers.share.router
+2026-10-09 04:27:48,716 - main - INFO - Included router: routers.shared_apps.router
+2026-10-09 04:27:48,736 - main - INFO - Included router: routers.storage.router
+2026-10-09 04:27:48,746 - main - INFO - Included router: routers.user.router
+2026-10-09 04:27:48,766 - main - INFO - Included router: routers.user_api_keys.router
+2026-10-09 04:27:48,767 - main - INFO - === Application startup initiated ===
+2026-10-09 04:27:48,768 - main - INFO - === Application startup completed successfully ===
+2026-10-09 04:27:55,479 - main - INFO - === Logging system initialized ===
+2026-10-09 04:27:55,480 - main - INFO - Log file: logs/app_20261009.log
+2026-10-09 04:27:55,480 - main - INFO - Log level: DEBUG
+2026-10-09 04:27:55,480 - main - INFO - Log date: 20261009
+2026-10-09 04:27:55,602 - main - INFO - Included router: routers.aihub.router
+2026-10-09 04:27:56,335 - main - INFO - Included router: routers.api_keys.router
+2026-10-09 04:27:56,451 - main - INFO - Included router: routers.app_shares.router
+2026-10-09 04:27:56,460 - main - INFO - Included router: routers.auth.router
+2026-10-09 04:27:56,490 - main - INFO - Included router: routers.chat_sessions.router
+2026-10-09 04:27:56,494 - main - INFO - Included router: routers.health.router
+2026-10-09 04:27:56,725 - main - INFO - Included router: routers.llm_proxy.router
+2026-10-09 04:27:56,735 - main - INFO - Included router: routers.settings.router
+2026-10-09 04:27:56,741 - main - INFO - Included router: routers.share.router
+2026-10-09 04:27:56,762 - main - INFO - Included router: routers.shared_apps.router
+2026-10-09 04:27:56,783 - main - INFO - Included router: routers.storage.router
+2026-10-09 04:27:56,794 - main - INFO - Included router: routers.user.router
+2026-10-09 04:27:56,815 - main - INFO - Included router: routers.user_api_keys.router
+2026-10-09 04:27:56,816 - main - INFO - === Application startup initiated ===
+2026-10-09 04:27:56,816 - main - INFO - === Application startup completed successfully ===
+2026-10-09 04:28:10,272 - main - INFO - === Logging system initialized ===
+2026-10-09 04:28:10,273 - main - INFO - Log file: logs/app_20261009.log
+2026-10-09 04:28:10,273 - main - INFO - Log level: DEBUG
+2026-10-09 04:28:10,273 - main - INFO - Log date: 20261009
+2026-10-09 04:28:10,389 - main - INFO - Included router: routers.aihub.router
+2026-10-09 04:28:11,138 - main - INFO - Included router: routers.api_keys.router
+2026-10-09 04:28:11,232 - main - INFO - Included router: routers.app_shares.router
+2026-10-09 04:28:11,238 - main - INFO - Included router: routers.auth.router
+2026-10-09 04:28:11,265 - main - INFO - Included router: routers.chat_sessions.router
+2026-10-09 04:28:11,268 - main - INFO - Included router: routers.health.router
+2026-10-09 04:28:11,496 - main - INFO - Included router: routers.llm_proxy.router
+2026-10-09 04:28:11,524 - main - INFO - Included router: routers.settings.router
+2026-10-09 04:28:11,531 - main - INFO - Included router: routers.share.router
+2026-10-09 04:28:11,552 - main - INFO - Included router: routers.shared_apps.router
+2026-10-09 04:28:11,572 - main - INFO - Included router: routers.storage.router
+2026-10-09 04:28:11,584 - main - INFO - Included router: routers.user.router
+2026-10-09 04:28:11,608 - main - INFO - Included router: routers.user_api_keys.router
+2026-10-09 04:28:11,610 - main - INFO - === Application startup initiated ===
+2026-10-09 04:28:11,610 - main - INFO - === Application startup completed successfully ===
+2026-10-09 04:28:43,410 - main - INFO - === Logging system initialized ===
+2026-10-09 04:28:43,410 - main - INFO - Log file: logs/app_20261009.log
+2026-10-09 04:28:43,410 - main - INFO - Log level: DEBUG
+2026-10-09 04:28:43,410 - main - INFO - Log date: 20261009
+2026-10-09 04:28:43,613 - main - INFO - Included router: routers.aihub.router
+2026-10-09 04:28:44,728 - main - INFO - === Logging system initialized ===
+2026-10-09 04:28:44,728 - main - INFO - Log file: logs/app_20261009.log
+2026-10-09 04:28:44,728 - main - INFO - Log level: DEBUG
+2026-10-09 04:28:44,728 - main - INFO - Log date: 20261009
+2026-10-09 04:28:44,933 - main - INFO - Included router: routers.aihub.router
+2026-10-09 04:28:45,125 - main - INFO - Included router: routers.api_keys.router
+2026-10-09 04:28:45,219 - main - INFO - Included router: routers.app_shares.router
+2026-10-09 04:28:45,225 - main - INFO - Included router: routers.auth.router
+2026-10-09 04:28:45,259 - main - INFO - Included router: routers.chat_sessions.router
+2026-10-09 04:28:45,261 - main - INFO - Included router: routers.health.router
+2026-10-09 04:28:45,505 - main - INFO - Included router: routers.llm_proxy.router
+2026-10-09 04:28:45,533 - main - INFO - Included router: routers.settings.router
+2026-10-09 04:28:45,552 - main - INFO - Included router: routers.share.router
+2026-10-09 04:28:45,575 - main - INFO - Included router: routers.shared_apps.router
+2026-10-09 04:28:45,596 - main - INFO - Included router: routers.storage.router
+2026-10-09 04:28:45,607 - main - INFO - Included router: routers.user.router
+2026-10-09 04:28:45,629 - main - INFO - Included router: routers.user_api_keys.router
+2026-10-09 04:28:45,632 - main - INFO - === Application startup initiated ===
+2026-10-09 04:28:45,632 - main - INFO - === Application startup completed successfully ===
+2026-10-09 04:28:45,677 - main - INFO - Included router: routers.api_keys.router
+2026-10-09 04:28:45,778 - main - INFO - Included router: routers.app_shares.router
+2026-10-09 04:28:45,784 - main - INFO - Included router: routers.auth.router
+2026-10-09 04:28:45,810 - main - INFO - Included router: routers.chat_sessions.router
+2026-10-09 04:28:45,813 - main - INFO - Included router: routers.health.router
+2026-10-09 04:28:46,051 - main - INFO - Included router: routers.llm_proxy.router
+2026-10-09 04:28:46,076 - main - INFO - Included router: routers.settings.router
+2026-10-09 04:28:46,089 - main - INFO - Included router: routers.share.router
+2026-10-09 04:28:46,109 - main - INFO - Included router: routers.shared_apps.router
+2026-10-09 04:28:46,132 - main - INFO - Included router: routers.storage.router
+2026-10-09 04:28:46,145 - main - INFO - Included router: routers.user.router
+2026-10-09 04:28:46,168 - main - INFO - Included router: routers.user_api_keys.router
+2026-10-09 04:28:46,169 - main - INFO - === Application startup initiated ===
+2026-10-09 04:28:46,170 - main - INFO - === Application startup completed successfully ===
+2026-10-09 04:28:46,689 - main - INFO - === Logging system initialized ===
+2026-10-09 04:28:46,689 - main - INFO - Log file: logs/app_20261009.log
+2026-10-09 04:28:46,689 - main - INFO - Log level: DEBUG
+2026-10-09 04:28:46,689 - main - INFO - Log date: 20261009
+2026-10-09 04:28:46,786 - main - INFO - Included router: routers.aihub.router
+2026-10-09 04:28:47,460 - main - INFO - Included router: routers.api_keys.router
+2026-10-09 04:28:47,560 - main - INFO - Included router: routers.app_shares.router
+2026-10-09 04:28:47,566 - main - INFO - Included router: routers.auth.router
+2026-10-09 04:28:47,598 - main - INFO - Included router: routers.chat_sessions.router
+2026-10-09 04:28:47,601 - main - INFO - Included router: routers.health.router
+2026-10-09 04:28:47,833 - main - INFO - Included router: routers.llm_proxy.router
+2026-10-09 04:28:47,843 - main - INFO - Included router: routers.settings.router
+2026-10-09 04:28:47,858 - main - INFO - Included router: routers.share.router
+2026-10-09 04:28:47,878 - main - INFO - Included router: routers.shared_apps.router
+2026-10-09 04:28:47,898 - main - INFO - Included router: routers.storage.router
+2026-10-09 04:28:47,912 - main - INFO - Included router: routers.user.router
+2026-10-09 04:28:47,937 - main - INFO - Included router: routers.user_api_keys.router
+2026-10-09 04:28:47,939 - main - INFO - === Application startup initiated ===
+2026-10-09 04:28:47,939 - main - INFO - === Application startup completed successfully ===
+2026-10-09 04:28:50,908 - core.config - DEBUG - Read dynamic attribute jwt_secret_key from environment variable JWT_SECRET_KEY
+2026-10-09 04:28:50,975 - core.config - DEBUG - Read dynamic attribute jwt_algorithm from environment variable JWT_ALGORITHM
+2026-10-09 04:28:51,351 - core.config - DEBUG - Read dynamic attribute database_url from environment variable DATABASE_URL
+2026-10-09 04:28:51,352 - core.database - INFO - Using QueuePool for non-Lambda environment (pool_pre_ping=True, pool_size=5, max_overflow=5, pool_recycle=280s, pool_timeout=30s, pool_use_lifo=True)
+2026-10-09 04:28:51,395 - core.database - INFO - Database connection initialized successfully
+2026-10-09 04:28:51,396 - routers.chat_sessions - DEBUG - Querying chat_sessionss: query={}, sort=-updated_ms, skip=0, limit=200, fields=None
+2026-10-09 04:28:52,617 - routers.chat_sessions - DEBUG - Found 1 chat_sessionss
+2026-10-09 04:32:46,057 - dependencies.auth - DEBUG - Authentication required for request GET /api/v1/auth/me
+2026-10-09 04:35:52,528 - main - INFO - === Logging system initialized ===
+2026-10-09 04:35:52,528 - main - INFO - Log file: logs/app_20261009.log
+2026-10-09 04:35:52,528 - main - INFO - Log level: DEBUG
+2026-10-09 04:35:52,528 - main - INFO - Log date: 20261009
+2026-10-09 04:35:52,630 - main - INFO - Included router: routers.aihub.router
+2026-10-09 04:35:53,309 - main - INFO - Included router: routers.api_keys.router
+2026-10-09 04:35:53,398 - main - INFO - Included router: routers.app_shares.router
+2026-10-09 04:35:53,409 - main - INFO - Included router: routers.auth.router
+2026-10-09 04:35:53,439 - main - INFO - Included router: routers.chat_sessions.router
+2026-10-09 04:35:53,442 - main - INFO - Included router: routers.health.router
+2026-10-09 04:35:53,669 - main - INFO - Included router: routers.llm_proxy.router
+2026-10-09 04:35:53,682 - main - INFO - Included router: routers.settings.router
+2026-10-09 04:35:53,697 - main - INFO - Included router: routers.share.router
+2026-10-09 04:35:53,723 - main - INFO - Included router: routers.shared_apps.router
+2026-10-09 04:35:53,746 - main - INFO - Included router: routers.storage.router
+2026-10-09 04:35:53,760 - main - INFO - Included router: routers.user.router
+2026-10-09 04:35:53,781 - main - INFO - Included router: routers.user_api_keys.router
+2026-10-09 04:35:53,782 - main - INFO - === Application startup initiated ===
+2026-10-09 04:35:53,783 - main - INFO - === Application startup completed successfully ===
+2026-10-09 04:37:41,855 - main - INFO - === Logging system initialized ===
+2026-10-09 04:37:41,856 - main - INFO - Log file: logs/app_20261009.log
+2026-10-09 04:37:41,856 - main - INFO - Log level: DEBUG
+2026-10-09 04:37:41,856 - main - INFO - Log date: 20261009
+2026-10-09 04:37:41,953 - main - INFO - Included router: routers.aihub.router
+2026-10-09 04:37:42,648 - main - INFO - Included router: routers.api_keys.router
+2026-10-09 04:37:42,740 - main - INFO - Included router: routers.app_shares.router
+2026-10-09 04:37:42,747 - main - INFO - Included router: routers.auth.router
+2026-10-09 04:37:42,771 - main - INFO - Included router: routers.chat_sessions.router
+2026-10-09 04:37:42,773 - main - INFO - Included router: routers.health.router
+2026-10-09 04:37:43,003 - main - INFO - Included router: routers.llm_proxy.router
+2026-10-09 04:37:43,058 - main - INFO - Included router: routers.settings.router
+2026-10-09 04:37:43,070 - main - INFO - Included router: routers.share.router
+2026-10-09 04:37:43,090 - main - INFO - Included router: routers.shared_apps.router
+2026-10-09 04:37:43,113 - main - INFO - Included router: routers.storage.router
+2026-10-09 04:37:43,128 - main - INFO - Included router: routers.user.router
+2026-10-09 04:37:43,150 - main - INFO - Included router: routers.user_api_keys.router
+2026-10-09 04:37:43,151 - main - INFO - === Application startup initiated ===
+2026-10-09 04:37:43,151 - main - INFO - === Application startup completed successfully ===
+2026-10-09 04:38:15,198 - core.config - DEBUG - Read dynamic attribute jwt_secret_key from environment variable JWT_SECRET_KEY
+2026-10-09 04:38:15,906 - core.config - DEBUG - Read dynamic attribute jwt_algorithm from environment variable JWT_ALGORITHM
+2026-10-09 04:38:16,002 - core.config - DEBUG - Read dynamic attribute database_url from environment variable DATABASE_URL
+2026-10-09 04:38:16,095 - core.database - INFO - Using QueuePool for non-Lambda environment (pool_pre_ping=True, pool_size=5, max_overflow=5, pool_recycle=280s, pool_timeout=30s, pool_use_lifo=True)
+2026-10-09 04:38:16,699 - core.database - INFO - Database connection initialized successfully
+2026-10-09 04:38:16,701 - routers.chat_sessions - DEBUG - Querying chat_sessionss: query={}, sort=-updated_ms, skip=0, limit=200, fields=None
+2026-10-09 04:38:18,313 - routers.chat_sessions - DEBUG - Found 1 chat_sessionss
+2026-10-09 04:38:20,550 - routers.chat_sessions - DEBUG - Creating new chat_sessions with data: session_key='tmvze3sv5w' title='番茄钟专注计时器，带统计图' data='{"id":"tmvze3sv5w","title":"番茄钟专注计时器，带统计图","messages":[{"id":"6v5loujxlny","role":"user","content":"番茄钟专注计时器，带统计图","images":[]},{"id":"uau80mqxt3","role":"agent","agent":"Emma","content":"1. 番茄钟核心功能：25分钟专注计时 + 5分钟休息计时，支持开始/暂停/重置操作\\n2. 统计图表：记录完成的番茄钟数量，使用柱状图展示每日/每周完成情况\\n3. 界面设计：采用清新配色（番茄红为主色调），圆形倒计时区域居中，底部显示控制按钮和统计数据\\n4. 数据持久化：使用 localStorage 存储番茄钟历史数据，刷新页面不丢失\\n5. 音效提醒：计时结束播放提示音，增强用户体验","status":"done"},{"id":"kc1qaffxfs","role":"agent","agent":"Alex","content":"</files>\\n\\n我们完成了番茄钟专注计时器的核心功能开发，包括25分钟专注+5分钟休息的循环计时、统计数据展示、图表可视化等功能。界面采用现代化设计风格，支持响应式布局，并使用localStorage进行数据持久化存储。\\n\\n📦 v1 · index.html, style.css, script.js","status":"done","versionId":1}],"versions":[{"id":1,"prompt":"番茄钟专注计时器，带统计图","files":{"index.html":"<!DOCTYPE html>\\n<html lang=\\"zh-CN\\">\\n<head>\\n    <meta charset=\\"UTF-8\\">\\n    <meta name=\\"viewport\\" content=\\"width=device-width, initial-scale=1.0\\">\\n    <title>番茄钟专注计时器</title>\\n    <link rel=\\"stylesheet\\" href=\\"style.css\\">\\n    <script src=\\"https://cdn.jsdelivr.net/npm/chart.js\\"></script>\\n</head>\\n<body>\\n    <div class=\\"container\\">\\n        <header>\\n            <h1>番茄钟专注计时器</h1>\\n        </header>\\n        \\n        <main>\\n            <div class=\\"timer-container\\">\\n                <div class=\\"timer-circle\\">\\n                    <div class=\\"timer-display\\" id=\\"timeDisplay\\">25:00</div>\\n                    <div class=\\"timer-label\\" id=\\"timerLabel\\">专注时间</div>\\n                </div>\\n                \\n                <div class=\\"controls\\">\\n                    <button id=\\"startBtn\\" class=\\"btn btn-primary\\">开始</button>\\n                    <button id=\\"pauseBtn\\" class=\\"btn btn-secondary\\" disabled>暂停</button>\\n                    <button id=\\"resetBtn\\" class=\\"btn btn-secondary\\">重置</button>\\n                </div>\\n                \\n                <div class=\\"session-info\\">\\n                    <div class=\\"pomodoro-count\\">\\n                        <span>已完成番茄钟：</span>\\n                        <span id=\\"completedCount\\">0</span>\\n                    </div>\\n                    <div class=\\"current-session\\">\\n                        <span>当前会话：</span>\\n                        <span id=\\"currentSession\\">0</span>\\n                        <span>/ 4</span>\\n                    </div>\\n                </div>\\n            </div>\\n            \\n            <div class=\\"stats-container\\">\\n                <h2>统计图表</h2>\\n                <div class=\\"chart-wrapper\\">\\n                    <canvas id=\\"statsChart\\"></canvas>\\n                </div>\\n                <div class=\\"stats-summary\\">\\n                    <div class=\\"stat-item\\">\\n                        <h3>今日专注</h3>\\n                        <p><span id=\\"todayFocus\\">0</span> 分钟</p>\\n                    </div>\\n                    <div class=\\"stat-item\\">\\n                        <h3>本周专注</h3>\\n                        <p><span id=\\"weekFocus\\">0</span> 分钟</p>\\n                    </div>\\n                    <div class=\\"stat-item\\">\\n                        <h3>总番茄钟</h3>\\n                        <p><span id=\\"totalPomodoros\\">0</span> 个</p>\\n                    </div>\\n                </div>\\n            </div>\\n        </main>\\n    </div>\\n    \\n    <audio id=\\"alarmSound\\" preload=\\"auto\\">\\n        <source src=\\"data:audio/mpeg;base64,SUQzBAAAAAABEVRYWFgAAAAtAAADY29tbWVudABCaWdTb3VuZEJhbmsuY29tIC8gTGFTb25vdGhlcXVlLm9yZwBURU5DAAAAHQAAA1N3aXRjaCBQbHVzIMKpIE5DSCBTb2Z0d2FyZQBUSVQyAAAABgAAAzIyMzUAVFNTRQAAAA8AAANMYXZmNTcuODMuMTAwAAAAAAAAAAAAAAD/80DEAAAAA0gAAAAATEFNRTMuMTAwVVVVVVVVVVVVVUxBTUUzLjEwMFVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVf/zQsRbAAADSAAAAABVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVf/zQMSkAAADSAAAAABVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV\\" type=\\"audio/mpeg\\">\\n    </audio>\\n    \\n    <script src=\\"script.js\\"></script>\\n</body>\\n</html>\\n","style.css":"* {\\n    margin: 0;\\n    padding: 0;\\n    box-sizing: border-box;\\n}\\n\\nbody {\\n    font-family: \'Segoe UI\', Tahoma, Geneva, Verdana, sans-serif;\\n    background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);\\n    min-height: 100vh;\\n    color: #333;\\n}\\n\\n.container {\\n    max-width: 1200px;\\n    margin: 0 auto;\\n    padding: 20px;\\n}\\n\\nheader {\\n    text-align: center;\\n    margin-bottom: 30px;\\n}\\n\\nheader h1 {\\n    color: #e74c3c;\\n    font-size: 2.5rem;\\n    margin-bottom: 10px;\\n}\\n\\n.timer-container {\\n    display: flex;\\n    flex-direction: column;\\n    align-items: center;\\n    margin-bottom: 40px;\\n    background: white;\\n    padding: 30px;\\n    border-radius: 20px;\\n    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);\\n}\\n\\n.timer-circle {\\n    width: 300px;\\n    height: 300px;\\n    border-radius: 50%;\\n    background: linear-gradient(135deg, #e74c3c 0%, #c0392b 100%);\\n    display: flex;\\n    flex-direction: column;\\n    justify-content: center;\\n    align-items: center;\\n    margin-bottom: 30px;\\n    position: relative;\\n    overflow: hidden;\\n    box-shadow: 0 10px 25px rgba(231, 76, 60, 0.3);\\n}\\n\\n.timer-circle::before {\\n    content: \'\';\\n    position: absolute;\\n    top: -50%;\\n    left: -50%;\\n    width: 200%;\\n    height: 200%;\\n    background: radial-gradient(circle, rgba(255,255,255,0.1) 0%, transparent 70%);\\n}\\n\\n.timer-display {\\n    font-size: 4rem;\\n    font-weight: bold;\\n    color: white;\\n    margin-bottom: 10px;\\n    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);\\n}\\n\\n.timer-label {\\n    font-size: 1.5rem;\\n    color: rgba(255, 255, 255, 0.9);\\n    font-weight: 500;\\n}\\n\\n.controls {\\n    display: flex;\\n    gap: 15px;\\n    margin-bottom: 20px;\\n}\\n\\n.btn {\\n    padding: 12px 24px;\\n    border: none;\\n    border-radius: 25px;\\n    font-size: 1rem;\\n    font-weight: 600;\\n    cursor: pointer;\\n    transition: all 0.3s ease;\\n    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);\\n}\\n\\n.btn:hover {\\n    transform: translateY(-2px);\\n    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);\\n}\\n\\n.btn:active {\\n    transform: translateY(0);\\n}\\n\\n.btn-primary {\\n    background: #e74c3c;\\n    color: white;\\n}\\n\\n.btn-primary:hover {\\n    background: #c0392b;\\n}\\n\\n.btn-secondary {\\n    background: #ecf0f1;\\n    color: #7f8c8d;\\n}\\n\\n.btn-secondary:hover {\\n    background: #bdc3c7;\\n    color: #2c3e50;\\n}\\n\\n.session-info {\\n    display: flex;\\n    gap: 30px;\\n    text-align: center;\\n}\\n\\n.pomodoro-count, .current-session {\\n    font-size: 1.1rem;\\n    color: #7f8c8d;\\n}\\n\\n.pomodoro-count span:last-child,\\n.current-session span:last-child {\\n    color: #e74c3c;\\n    font-weight: bold;\\n}\\n\\n.stats-container {\\n    background: white;\\n    padding: 30px;\\n    border-radius: 20px;\\n    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);\\n}\\n\\n.stats-container h2 {\\n    color: #e74c3c;\\n    margin-bottom: 20px;\\n    font-size: 1.8rem;\\n}\\n\\n.chart-wrapper {\\n    height: 300px;\\n    margin-bottom: 30px;\\n}\\n\\n.stats-summary {\\n    display: grid;\\n    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));\\n    gap: 20px;\\n}\\n\\n.stat-item {\\n    text-align: center;\\n    padding: 20px;\\n    background: #f8f9fa;\\n    border-radius: 10px;\\n    border-left: 4px solid #e74c3c;\\n}\\n\\n.stat-item h3 {\\n    color: #7f8c8d;\\n    margin-bottom: 10px;\\n    font-size: 1.1rem;\\n}\\n\\n.stat-item p {\\n    font-size: 1.8rem;\\n    font-weight: bold;\\n    color: #e74c3c;\\n}\\n\\n@media (max-width: 768px) {\\n    .container {\\n        padding: 10px;\\n    }\\n    \\n    header h1 {\\n        font-size: 2rem;\\n    }\\n    \\n    .timer-circle {\\n        width: 250px;\\n        height: 250px;\\n    }\\n    \\n    .timer-display {\\n        font-size: 3rem;\\n    }\\n    \\n    .controls {\\n        flex-wrap: wrap;\\n        justify-content: center;\\n    }\\n    \\n    .session-info {\\n        flex-direction: column;\\n        gap: 10px;\\n        align-items: center;\\n    }\\n    \\n    .chart-wrapper {\\n        height: 250px;\\n    }\\n}\\n","script.js":"class PomodoroTimer {\\n    constructor() {\\n        this.workTime = 25 * 60; // 25分钟\\n        this.breakTime = 5 * 60; // 5分钟\\n        this.currentTime = this.workTime;\\n        this.totalTime = this.workTime;\\n        this.isRunning = false;\\n        this.isWorkTime = true;\\n        this.completedSessions = 0;\\n        this.currentSession = 0;\\n        this.intervals = [];\\n        \\n        this.timeDisplay = document.getElementById(\'timeDisplay\');\\n        this.timerLabel = document.getElementById(\'timerLabel\');\\n        this.startBtn = document.getElementById(\'startBtn\');\\n        this.pauseBtn = document.getElementById(\'pauseBtn\');\\n        this.resetBtn = document.getElementById(\'resetBtn\');\\n        this.completedCount = document.getElementById(\'completedCount\');\\n        this.currentSessionEl = document.getElementById(\'currentSession\');\\n        this.alarmSound = document.getElementById(\'alarmSound\');\\n        \\n        this.initEventListeners();\\n        this.loadStats();\\n        this.updateStats();\\n        this.createChart();\\n    }\\n    \\n    initEventListeners() {\\n        this.startBtn.addEventListener(\'click\', () => this.start());\\n        this.pauseBtn.addEventListener(\'click\', () => this.pause());\\n        this.resetBtn.addEventListener(\'click\', () => this.reset());\\n    }\\n    \\n    start() {\\n        if (this.isRunning) return;\\n        \\n        this.isRunning = true;\\n        this.startBtn.disabled = true;\\n        this.pauseBtn.disabled = false;\\n        \\n        this.intervals.push(setInterval(() => {\\n            this.tick();\\n        }, 1000));\\n    }\\n    \\n    pause() {\\n        this.isRunning = false;\\n        this.startBtn.disabled = false;\\n        this.pauseBtn.disabled = true;\\n        \\n        this.intervals.forEach(interval => clearInterval(interval));\\n        this.intervals = [];\\n    }\\n    \\n    reset() {\\n        this.pause();\\n        this.currentTime = this.isWorkTime ? this.workTime : this.breakTime;\\n        this.totalTime = this.currentTime;\\n        this.currentSession = 0;\\n        this.updateDisplay();\\n        this.updateUI();\\n    }\\n    \\n    tick() {\\n        this.currentTime--;\\n        this.updateDisplay();\\n        \\n        if (this.currentTime <= 0) {\\n            this.alarmSound.play();\\n            this.completeSession();\\n        }\\n    }\\n    \\n    completeSession() {\\n        if (this.isWorkTime) {\\n            // 完成一个工作周期\\n            this.completedSessions++;\\n            this.currentSession++;\\n            this.saveStats();\\n            \\n            if (this.currentSession >= 4) {\\n                // 完成长轮，休息15-30分钟\\n                this.isWorkTime = false;\\n                this.currentTime = 15 * 60; // 长休息15分钟\\n                this.totalTime = this.currentTime;\\n                this.currentSession = 0;\\n            } else {\\n                // 短休息\\n                this.isWorkTime = false;\\n                this.currentTime = this.breakTime;\\n                this.totalTime = this.currentTime;\\n            }\\n        } else {\\n            // 休息结束，开始新的工作周期\\n            this.isWorkTime = true;\\n            this.currentTime = this.workTime;\\n            this.totalTime = this.currentTime;\\n        }\\n        \\n        this.updateUI();\\n        this.updateStats();\\n    }\\n    \\n    updateDisplay() {\\n        const minutes = Math.floor(this.currentTime / 60);\\n        const seconds = this.currentTime % 60;\\n        this.timeDisplay.textContent = `${minutes.toString().padStart(2, \'0\')}:${seconds.toString().padStart(2, \'0\')}`;\\n    }\\n    \\n    updateUI() {\\n        this.timerLabel.textContent = this.isWorkTime ? \'专注时间\' : \'休息时间\';\\n        this.completedCount.textContent = this.completedSessions;\\n        this.currentSessionEl.textContent = this.currentSession;\\n        this.updateDisplay();\\n    }\\n    \\n    saveStats() {\\n        const stats = JSON.parse(localStorage.getItem(\'pomodoroStats\') || \'{}\');\\n        const today = new Date().toDateString();\\n        \\n        if (!stats[today]) {\\n            stats[today] = { pomodoros: 0, focusMinutes: 0 };\\n        }\\n        \\n        stats[today].pomodoros += 1;\\n        stats[today].focusMinutes += 25;\\n        \\n        localStorage.setItem(\'pomodoroStats\', JSON.stringify(stats));\\n    }\\n    \\n    loadStats() {\\n        const stats = JSON.parse(localStorage.getItem(\'pomodoroStats\') || \'{}\');\\n        let totalPomodoros = 0;\\n        let todayFocus = 0;\\n        let weekFocus = 0;\\n        \\n        const now = new Date();\\n        const oneWeekAgo = new Date(now.getTime() - 7 * 24 * 60 * 60 * 1000);\\n        \\n        for (const date in stats) {\\n            const dateObj = new Date(date);\\n            totalPomodoros += stats[date].pomodoros;\\n            \\n            if (date === now.toDateString()) {\\n                todayFocus += stats[date].focusMinutes;\\n            }\\n            \\n            if (dateObj >= oneWeekAgo) {\\n                weekFocus += stats[date].focusMinutes;\\n            }\\n        }\\n        \\n        this.completedSessions = totalPomodoros;\\n        this.updateStatsDisplay(todayFocus, weekFocus, totalPomodoros);\\n    }\\n    \\n    updateStats() {\\n        this.loadStats();\\n        this.updateChart();\\n    }\\n    \\n    updateStatsDisplay(todayFocus, weekFocus, totalPomodoros) {\\n        document.getElementById(\'todayFocus\').textContent = todayFocus;\\n        document.getElementById(\'weekFocus\').textContent = weekFocus;\\n        document.getElementById(\'totalPomodoros\').textContent = totalPomodoros;\\n    }\\n    \\n    createChart() {\\n        const ctx = document.getElementById(\'statsChart\').getContext(\'2d\');\\n        this.chart = new Chart(ctx, {\\n            type: \'bar\',\\n            data: {\\n                labels: [],\\n                datasets: [{\\n                    label: \'完成的番茄钟\',\\n                    data: [],\\n                    backgroundColor: \'rgba(231, 76, 60, 0.7)\',\\n                    borderColor: \'rgba(231, 76, 60, 1)\',\\n                    borderWidth: 1\\n                }]\\n            },\\n            options: {\\n                responsive: true,\\n                maintainAspectRatio: false,\\n                scales: {\\n                    y: {\\n                        beginAtZero: true,\\n                        ticks: {\\n                            stepSize: 1\\n                        }\\n                    }\\n                }\\n            }\\n        });\\n        \\n        this.updateChart();\\n    }\\n    \\n    updateChart() {\\n        const stats = JSON.parse(localStorage.getItem(\'pomodoroStats\') || \'{}\');\\n        const dates = Object.keys(stats).sort().slice(-7); // 最近7天\\n        \\n        const labels = dates.map(date => {\\n            const dateObj = new Date(date);\\n            return dateObj.toLocaleDateString(\'zh-CN\', { month: \'short\', day: \'numeric\' });\\n        });\\n        \\n        const data = dates.map(date => stats[date].pomodoros);\\n        \\n        this.chart.data.labels = labels;\\n        this.chart.data.datasets[0].data = data;\\n        this.chart.update();\\n    }\\n}\\n\\n// 初始化应用\\ndocument.addEventListener(\'DOMContentLoaded\', () => {\\n    new PomodoroTimer();\\n});\\n"},"createdAt":1791544299196}],"current":1,"updatedAt":1791544299196}' updated_ms=1791544299196.0
+2026-10-09 04:38:21,512 - services.chat_sessions - INFO - Created chat_sessions with id: 7
+2026-10-09 04:38:21,513 - routers.chat_sessions - INFO - Chat_sessions created successfully with id: 7
+2026-10-09 04:38:51,889 - dependencies.auth - DEBUG - Authentication required for request GET /api/v1/auth/me
+2026-10-09 04:42:02,318 - main - INFO - === Logging system initialized ===
+2026-10-09 04:42:02,319 - main - INFO - Log file: logs/app_20261009.log
+2026-10-09 04:42:02,319 - main - INFO - Log level: DEBUG
+2026-10-09 04:42:02,319 - main - INFO - Log date: 20261009
+2026-10-09 04:42:02,426 - main - INFO - Included router: routers.aihub.router
+2026-10-09 04:42:03,361 - main - INFO - Included router: routers.api_keys.router
+2026-10-09 04:42:03,515 - main - INFO - Included router: routers.app_shares.router
+2026-10-09 04:42:03,522 - main - INFO - Included router: routers.auth.router
+2026-10-09 04:42:03,550 - main - INFO - Included router: routers.chat_sessions.router
+2026-10-09 04:42:03,702 - main - INFO - Included router: routers.generation_jobs.router
+2026-10-09 04:42:03,707 - main - INFO - Included router: routers.health.router
+2026-10-09 04:42:04,319 - main - INFO - Included router: routers.llm_jobs.router
+2026-10-09 04:42:04,319 - main - INFO - Included router: routers.llm_proxy.router
+2026-10-09 04:42:04,329 - main - INFO - Included router: routers.settings.router
+2026-10-09 04:42:04,340 - main - INFO - Included router: routers.share.router
+2026-10-09 04:42:04,359 - main - INFO - Included router: routers.shared_apps.router
+2026-10-09 04:42:04,412 - main - INFO - Included router: routers.storage.router
+2026-10-09 04:42:04,433 - main - INFO - Included router: routers.user.router
+2026-10-09 04:42:04,498 - main - INFO - Included router: routers.user_api_keys.router
+2026-10-09 04:42:04,499 - main - INFO - === Application startup initiated ===
+2026-10-09 04:42:04,499 - main - INFO - === Application startup completed successfully ===
+2026-10-09 04:44:15,960 - dependencies.auth - DEBUG - Authentication required for request GET /api/v1/auth/me
+2026-10-09 04:46:43,861 - main - INFO - === Logging system initialized ===
+2026-10-09 04:46:43,861 - main - INFO - Log file: logs/app_20261009.log
+2026-10-09 04:46:43,862 - main - INFO - Log level: DEBUG
+2026-10-09 04:46:43,862 - main - INFO - Log date: 20261009
+2026-10-09 04:46:43,953 - main - INFO - Included router: routers.aihub.router
+2026-10-09 04:46:44,668 - main - INFO - Included router: routers.api_keys.router
+2026-10-09 04:46:44,761 - main - INFO - Included router: routers.app_shares.router
+2026-10-09 04:46:44,768 - main - INFO - Included router: routers.auth.router
+2026-10-09 04:46:44,793 - main - INFO - Included router: routers.chat_sessions.router
+2026-10-09 04:46:44,821 - main - INFO - Included router: routers.generation_jobs.router
+2026-10-09 04:46:44,823 - main - INFO - Included router: routers.health.router
+2026-10-09 04:46:45,061 - main - INFO - Included router: routers.llm_jobs.router
+2026-10-09 04:46:45,062 - main - INFO - Included router: routers.llm_proxy.router
+2026-10-09 04:46:45,071 - main - INFO - Included router: routers.settings.router
+2026-10-09 04:46:45,082 - main - INFO - Included router: routers.share.router
+2026-10-09 04:46:45,100 - main - INFO - Included router: routers.shared_apps.router
+2026-10-09 04:46:45,122 - main - INFO - Included router: routers.storage.router
+2026-10-09 04:46:45,138 - main - INFO - Included router: routers.user.router
+2026-10-09 04:46:45,160 - main - INFO - Included router: routers.user_api_keys.router
+2026-10-09 04:46:45,161 - main - INFO - === Application startup initiated ===
+2026-10-09 04:46:45,162 - main - INFO - === Application startup completed successfully ===
+2026-10-09 04:51:30,484 - main - INFO - === Logging system initialized ===
+2026-10-09 04:51:30,484 - main - INFO - Log file: logs/app_20261009.log
+2026-10-09 04:51:30,485 - main - INFO - Log level: DEBUG
+2026-10-09 04:51:30,485 - main - INFO - Log date: 20261009
+2026-10-09 04:51:30,579 - main - INFO - Included router: routers.aihub.router
+2026-10-09 04:51:31,267 - main - INFO - Included router: routers.api_keys.router
+2026-10-09 04:51:31,363 - main - INFO - Included router: routers.app_shares.router
+2026-10-09 04:51:31,369 - main - INFO - Included router: routers.auth.router
+2026-10-09 04:51:31,402 - main - INFO - Included router: routers.chat_sessions.router
+2026-10-09 04:51:31,436 - main - INFO - Included router: routers.generation_jobs.router
+2026-10-09 04:51:31,440 - main - INFO - Included router: routers.health.router
+2026-10-09 04:51:31,684 - main - INFO - Included router: routers.llm_jobs.router
+2026-10-09 04:51:31,685 - main - INFO - Included router: routers.llm_proxy.router
+2026-10-09 04:51:31,695 - main - INFO - Included router: routers.settings.router
+2026-10-09 04:51:31,706 - main - INFO - Included router: routers.share.router
+2026-10-09 04:51:31,727 - main - INFO - Included router: routers.shared_apps.router
+2026-10-09 04:51:31,747 - main - INFO - Included router: routers.storage.router
+2026-10-09 04:51:31,762 - main - INFO - Included router: routers.user.router
+2026-10-09 04:51:31,783 - main - INFO - Included router: routers.user_api_keys.router
+2026-10-09 04:51:31,784 - main - INFO - === Application startup initiated ===
+2026-10-09 04:51:31,784 - main - INFO - === Application startup completed successfully ===

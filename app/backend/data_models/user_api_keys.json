@@ -1,0 +1,26 @@
+{
+    "title": "user_api_keys",
+    "type": "object",
+    "properties": {
+        "id": {
+            "type": "integer",
+            "autoincrement": true,
+            "primary_key": true
+        },
+        "user_id": {
+            "type": "string"
+        },
+        "provider": {
+            "type": "string"
+        },
+        "encrypted_key": {
+            "type": "string",
+            "format": "text"
+        }
+    },
+    "required": [
+        "provider",
+        "encrypted_key",
+        "user_id"
+    ]
+}

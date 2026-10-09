@@ -1,0 +1,33 @@
+{
+    "title": "generation_jobs",
+    "type": "object",
+    "properties": {
+        "id": {
+            "type": "integer",
+            "autoincrement": true,
+            "primary_key": true
+        },
+        "user_id": {
+            "type": "string"
+        },
+        "job_key": {
+            "type": "string"
+        },
+        "content": {
+            "type": "string",
+            "format": "text"
+        },
+        "status": {
+            "type": "string"
+        },
+        "error": {
+            "type": "string",
+            "format": "text"
+        }
+    },
+    "required": [
+        "job_key",
+        "status",
+        "user_id"
+    ]
+}
